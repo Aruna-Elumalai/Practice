@@ -63,6 +63,7 @@ import TodoList from "../component/TodoList"
 import TodoList1 from "../component/TodoList1"
 import Reducer from "../component/Reducer"
 import ExaMple from "../component/ExaMple"
+import PracTice from "../component/PracTice"
 
 function App(){
   return(
@@ -70,7 +71,8 @@ function App(){
   {/* <TodoList/> */}
   {/* <TodoList1/> */}
   {/* <Reducer/> */}
-  <ExaMple/>
+  {/* <ExaMple/> */}
+  <PracTice/>
     </div>
   )
 }
